@@ -73,4 +73,4 @@ Inside of the extracted TSGen folder, you should see a folder by the name of you
 
 Please see the [Creating a Thunderstore Package](creating.md) page for details on how to place your mod into this file structure.
 
-Now that your files are compiled together, zip your files together and head on over to [Thunderstore](https://h3vr.thunderstore.io) to upload your mod. Make sure to log in, then press the `Upload` button in the top left. Set it's category, drag your `.zip`, and hit upload.
+Now that your files are compiled together, zip your files together and head on over to [Thunderstore](https://h3vr.thunderstore.io) to upload your mod. Make sure to log in, then press the `Upload` button in the top left. Set its category, drag your `.zip`, and hit upload.
